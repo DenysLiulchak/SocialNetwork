@@ -1,0 +1,254 @@
+[{
+  "_id": {
+    "$oid": "6542d52aeb52e9a69d4f6c43"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-01T22:46:02.497Z"
+  },
+  "title": "Post #1",
+  "body": "Hello world!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6542d55beb52e9a69d4f6c44"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-01T22:46:51.087Z"
+  },
+  "title": "Post #2",
+  "body": "I love MongoDB",
+  "likes": [
+    "65312b854c4a6a275838a517",
+    "65312292e8056d20221bfa2e"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6542d5bfeb52e9a69d4f6c45"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-01T22:48:31.656Z"
+  },
+  "title": null,
+  "body": "Post without title",
+  "likes": [
+    "65312b854c4a6a275838a517"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6542d5faeb52e9a69d4f6c46"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-01T22:49:30.747Z"
+  },
+  "title": "Multiline Post",
+  "body": "Line #1\r\nLine #2\r\nLine #3\r\n...\r\nLine #n",
+  "likes": [
+    "65312b854c4a6a275838a517",
+    "65312292e8056d20221bfa2e"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6542d694eb52e9a69d4f6c47"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-01T22:52:04.928Z"
+  },
+  "title": "Sunshine",
+  "body": "The warmth of the morning sun gently caresses the earth, awakening it from its slumber. As light cascades across the horizon, it paints the sky in hues of gold and pink, casting away the shadows of the night. The sunshine, like a painter, adorns everything it touches with a radiant glow, infusing life into the world. Its golden fingers dance through leaves, creating intricate patterns on the ground, while its brilliance illuminates the smallest of details, revealing nature's exquisite beauty. The sunshine is more than just light; it's a symphony of hope, a reminder that each day is a new canvas waiting to be painted with the vibrant colors of possibility.",
+  "likes": [
+    "65312b854c4a6a275838a517",
+    "65312292e8056d20221bfa2e",
+    "65312bdce8056d20221bfa32"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6542d735eb52e9a69d4f6c48"
+  },
+  "authorID": "65312b854c4a6a275838a517",
+  "dateTime": {
+    "$date": "2023-11-01T22:54:45.649Z"
+  },
+  "title": "My first post",
+  "body": "Hello!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6542d75feb52e9a69d4f6c49"
+  },
+  "authorID": "65312b854c4a6a275838a517",
+  "dateTime": {
+    "$date": "2023-11-01T22:55:27.375Z"
+  },
+  "title": "Post without title",
+  "body": "Test",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6542d90b83031c180f115e00"
+  },
+  "authorID": "65312b854c4a6a275838a517",
+  "dateTime": {
+    "$date": "2023-11-01T23:01:06.968Z"
+  },
+  "title": "Empty post?",
+  "body": "   ",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6542dd41431562e55ef9eac2"
+  },
+  "authorID": "65312b854c4a6a275838a517",
+  "dateTime": {
+    "$date": "2023-11-01T23:20:33.431Z"
+  },
+  "title": "The World",
+  "body": "The world, a magnificent tapestry of diversity and wonder, is an intricate mosaic of cultures, landscapes, and stories. From the towering peaks of majestic mountains to the tranquil embrace of cerulean oceans, it hosts a breathtaking array of natural marvels. Its cities pulse with the vibrancy of human ambition and creativity, where the past and the future converge in a bustling present. Within its borders, myriad languages, beliefs, and traditions intersect, weaving a rich fabric of heritage and understanding. Yet, the world is not just a physical expanse; it's a shared home where compassion, empathy, and solidarity form the threads that connect us all. In its vastness lies both the serenity of quiet moments and the bustling energy of collective endeavors, reminding us of the beauty and complexity inherent in our shared existence.",
+  "likes": [
+    "65312292e8056d20221bfa2e"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65437f88c7420d990749c1d5"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-02T10:52:56.343Z"
+  },
+  "title": "\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000?",
+  "body": "(0_0)",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6543804cc7420d990749c1d6"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-02T10:56:12.762Z"
+  },
+  "title": null,
+  "body": "Embrace each day as a chance for new beginnings and endless possibilities. The world is our canvas, and each moment offers a chance to paint it with our unique colors. Let's cherish the diversity that surrounds us, finding beauty in our differences and strength in our unity. Remember, every step we take, every word we speak, shapes the narrative of our shared journey. Embrace kindness, spread joy, and let's make every heartbeat resonate with the rhythm of positivity.",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6543852bc7420d990749c1d8"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:16:59.693Z"
+  },
+  "title": "Hey!",
+  "body": "Hello everyone! Today, I want to remind you that small acts of kindness have incredible power. Whether it's a smile to a stranger, a supportive message to a friend, or lending a helping hand, these gestures create ripples of positivity that can brighten someone's day. Let's make kindness our default setting and spread the warmth wherever we go. Remember, the world can always use a little more kindness. Let's be the reason someone believes in the goodness of humanity.",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "65438565c7420d990749c1d9"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:17:57.323Z"
+  },
+  "title": "Boring day...",
+  "body": "...",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "654385d3c7420d990749c1da"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:19:47.240Z"
+  },
+  "title": "MongoDB",
+  "body": "Diving into the world of data management with MongoDB!\r\nThis dynamic, document-based database system offers incredible flexibility and scalability for all your data needs.\r\nWith its ability to handle diverse data types and its user-friendly structure, MongoDB empowers businesses to manage information more efficiently.\r\nFrom startups to established enterprises, its adaptability and powerful query language make it a game-changer in the realm of databases.\r\nJoin the revolution and unleash the potential of your data with MongoDB!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6543862fc7420d990749c1db"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:21:19.509Z"
+  },
+  "title": "Neo4j",
+  "body": "Delve into the world of connections with Neo4j!\r\nThis graph database is a game-changer in understanding relationships within data. With its emphasis on relationships and real-time queries, Neo4j provides a unique perspective on complex data structures. Whether it's for social networks, recommendation systems, or data analysis, Neo4j's innovative approach simplifies the understanding of intricate connections, offering a new dimension to data management. Dive into the realm of graph databases and discover the power of relationships with Neo4j!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "65438667c7420d990749c1dc"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:22:15.065Z"
+  },
+  "title": "C#",
+  "body": "Welcome to the dynamic world of C#! \r\nDeveloped by Microsoft, C# is a powerful, elegant language that's both versatile and user-friendly. Whether you're into game development, web applications, or enterprise software, C# empowers developers to create high-quality, efficient code. With its strong typing and extensive libraries, it's a go-to language for building robust and scalable applications. Dive into the C# ecosystem and unlock a realm where creativity meets functionality!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "654386adc7420d990749c1dd"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:23:25.551Z"
+  },
+  "title": "ChatGPT",
+  "body": "Welcome to the world of ChatGPT!\r\nEmbracing the innovative capabilities of AI, ChatGPT is an incredible language model that learns, adapts, and converses with human-like fluency. From providing insightful information to creative brainstorming, ChatGPT offers a myriad of possibilities. Its versatility spans from aiding businesses in customer service to assisting creators in content generation. Join the journey into the realm of AI-driven conversations and discover the endless potential with ChatGPT!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "654386e3c7420d990749c1de"
+  },
+  "authorID": "65312bdce8056d20221bfa32",
+  "dateTime": {
+    "$date": "2023-11-02T11:24:19.010Z"
+  },
+  "title": "Math",
+  "body": "Dive into the fascinating world of mathematics!\r\nFrom unlocking the secrets of the universe to solving everyday puzzles, math is the language of patterns, logic, and discovery. Whether it's algebra, calculus, geometry, or statistics, mathematics surrounds us, shaping the way we understand the world. Its beauty lies not just in numbers, but in the problem-solving skills and critical thinking it nurtures. Let's celebrate the elegance and power of math, an integral part of our lives!",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "6543872ac7420d990749c1df"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-02T11:25:30.493Z"
+  },
+  "title": "C++",
+  "body": "Embrace the power of C++ programming!\r\nWith its versatility and efficiency, C++ stands as a cornerstone in the world of software development. This high-performance language allows for building robust applications, from system software to video games, harnessing both speed and flexibility. Its wide-ranging applications in various industries make it a must-know language for aspiring developers. Whether you're a seasoned coder or just stepping into the programming world, C++ offers a thrilling journey into the heart of computer science. ",
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "65438756c7420d990749c1e0"
+  },
+  "authorID": "65312292e8056d20221bfa2e",
+  "dateTime": {
+    "$date": "2023-11-02T11:26:14.168Z"
+  },
+  "title": "Octave",
+  "body": "Let's harmonize with Octave!\r\nOctave, an open-source numerical computing environment, is a powerful tool for engineers, scientists, and data analysts. Offering a high-level programming language primarily compatible with MATLAB, Octave simplifies complex numerical computations and data analysis. Its ease of use and vast functionalities make it a go-to platform for scientific computing and algorithm development. Dive into the world of Octave to compose solutions and orchestrate data with precision!",
+  "likes": []
+}]

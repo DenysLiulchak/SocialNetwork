@@ -1,0 +1,159 @@
+[{
+  "_id": {
+    "$oid": "65312292e8056d20221bfa2e"
+  },
+  "email": "denys.liulchak@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Denys",
+  "lastName": "Liulchak",
+  "interests": [
+    "programming",
+    "fishing",
+    "table tennis"
+  ],
+  "following": [
+    "65312bdce8056d20221bfa32",
+    "653130ea4c4a6a275838a51b",
+    "65312b854c4a6a275838a517",
+    "653130bd4c4a6a275838a519"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312b854c4a6a275838a517"
+  },
+  "email": "sofiia.perepichka@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Sofia",
+  "lastName": "Perepichka",
+  "interests": [
+    "programming",
+    "reading",
+    "fitness"
+  ],
+  "following": [
+    "65312292e8056d20221bfa2e",
+    "65312bdce8056d20221bfa32",
+    "65313155e8056d20221bfa3f"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65312bdce8056d20221bfa32"
+  },
+  "email": "liubov.kryzhalka@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Lyuba",
+  "lastName": "Kryzhalka",
+  "interests": [
+    "psychology",
+    "religion"
+  ],
+  "following": [
+    "65312b854c4a6a275838a517",
+    "65312292e8056d20221bfa2e",
+    "65313155e8056d20221bfa3f",
+    "653130bd4c4a6a275838a519"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653130bd4c4a6a275838a518"
+  },
+  "email": "andrii.perevoshchenko@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Andrew",
+  "lastName": "Perevoshchenko",
+  "interests": [
+    "programming",
+    "math"
+  ],
+  "following": [
+    "65312292e8056d20221bfa2e"
+  ]
+},
+{
+  "_id": {
+    "$oid": "653130bd4c4a6a275838a519"
+  },
+  "email": "olesia.malikova@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Olesya",
+  "lastName": "Malikova",
+  "interests": [
+    "fashion",
+    "fitness"
+  ],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "653130ea4c4a6a275838a51a"
+  },
+  "email": "olena.panychok@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Olena",
+  "lastName": "Panychok",
+  "interests": [
+    "math",
+    "programming"
+  ],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "653130ea4c4a6a275838a51b"
+  },
+  "email": "maksym.seredovych@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Maksym",
+  "lastName": "Seredovych",
+  "interests": [
+    "math",
+    "philosophy"
+  ],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "653130fb4c4a6a275838a51c"
+  },
+  "email": "ihor.kachynskyi@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Ihor",
+  "lastName": "Kachynskyi",
+  "interests": [
+    "programming",
+    "cybersport"
+  ],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "653130fb4c4a6a275838a51d"
+  },
+  "email": "kyryl.kvas@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Kyryl",
+  "lastName": "Kvas",
+  "interests": [
+    "cybersport",
+    "programming",
+    "math"
+  ],
+  "following": []
+},
+{
+  "_id": {
+    "$oid": "65313155e8056d20221bfa3f"
+  },
+  "email": "viktoriia.hoshovska@lnu.edu.ua",
+  "password": "MyAccount",
+  "firstName": "Viktoriya",
+  "lastName": "Hoshovska",
+  "interests": [
+    "fitness",
+    "math"
+  ],
+  "following": []
+}]

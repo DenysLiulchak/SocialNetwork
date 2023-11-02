@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "6542dd98431562e55ef9eac3"
+  },
+  "body": "Wow!!! How you did that?",
+  "authorID": "65312b854c4a6a275838a517",
+  "postID": "6542d5faeb52e9a69d4f6c46",
+  "dateTime": {
+    "$date": "2023-11-01T23:22:00.162Z"
+  },
+  "likes": [
+    "65312292e8056d20221bfa2e",
+    "653130bd4c4a6a275838a518"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65437dfec7420d990749c1d3"
+  },
+  "body": "This is the best I've read",
+  "authorID": "65312292e8056d20221bfa2e",
+  "postID": "6542dd41431562e55ef9eac2",
+  "dateTime": {
+    "$date": "2023-11-02T10:46:22.230Z"
+  },
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "65437e94c7420d990749c1d4"
+  },
+  "body": "Hey, Sofia!",
+  "authorID": "65312292e8056d20221bfa2e",
+  "postID": "6542d735eb52e9a69d4f6c48",
+  "dateTime": {
+    "$date": "2023-11-02T10:48:52.219Z"
+  },
+  "likes": []
+},
+{
+  "_id": {
+    "$oid": "654381f7c7420d990749c1d7"
+  },
+  "body": "Awesome!",
+  "authorID": "65312bdce8056d20221bfa32",
+  "postID": "6542d694eb52e9a69d4f6c47",
+  "dateTime": {
+    "$date": "2023-11-02T11:03:19.175Z"
+  },
+  "likes": [
+    "65312292e8056d20221bfa2e"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6543b381d97698a56adecb9b"
+  },
+  "body": "Bullshit!!!",
+  "authorID": "653130bd4c4a6a275838a518",
+  "postID": "65437f88c7420d990749c1d5",
+  "dateTime": {
+    "$date": "2023-11-02T14:34:41.201Z"
+  },
+  "likes": []
+}]
